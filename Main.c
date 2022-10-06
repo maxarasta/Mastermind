@@ -14,6 +14,6 @@
 #include <stdint.h>
 
 int main(void) {
-	printf("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("!!!Hello Worlnd!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
