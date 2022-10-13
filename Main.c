@@ -14,6 +14,6 @@
 #include <stdint.h>
 
 int main(void) {
-	printf("!!!Hello Worlnd!!!"); /* prints !!!Hello World!!! */
+	printf("Ceci est un code de Mastermind!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
